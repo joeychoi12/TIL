@@ -12,4 +12,4 @@ Today I learned
 대전 [이젠컴퓨터학원](http://dj.ezenac.co.kr/) 에서 강의가 진행중입니다. (2019.05 - 2019.11)
 
 
-Git 과 GitHub로 내 커리어 만들기 | T아카데미 
+유투브:ㅣ Git 과 GitHub로 내 커리어 만들기 | T아카데미 
