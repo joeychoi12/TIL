@@ -10,6 +10,6 @@ Today I learned
 ...
 =======
 대전 [이젠컴퓨터학원](http://dj.ezenac.co.kr/) 에서 강의가 진행중입니다. (2019.05 - 2019.11)
->>>>>>> a92d0484a5bbb555a1bab6497f370b25ff40edf5
 
 
+Git 과 GitHub로 내 커리어 만들기 | T 
